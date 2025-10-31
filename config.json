@@ -1,7 +1,7 @@
 {
   "package_name": "bash",
-  "repository_path": "./test_repo",
-  "mode": "local",
+  "repository_path": "http://archive.ubuntu.com/ubuntu/dists/noble/main/binary-amd64/Packages.gz",
+  "mode": "remote",
   "ascii_tree": true,
   "filter_substring": ""
 }
