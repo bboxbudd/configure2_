@@ -1,0 +1,7 @@
+{
+  "package_name": "bash",
+  "repository_path": "./test_repo",
+  "mode": "local",
+  "ascii_tree": true,
+  "filter_substring": ""
+}
